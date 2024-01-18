@@ -1,0 +1,49 @@
+Employees who have worked for 7 consecutive days:
+No employee found.
+
+Employees who have less than 10 hours but greater than 1 hour between shifts:
+CaMaXaWE, CeghaW - WFS000153
+CaMaXaWE, CeghaW - WFS000153
+FeXix, XeEWeX - WFS000183
+HerCEsiXXE, PedrE - WFS000185
+Xee, XaCar - WFS000200
+Xee, XaCar - WFS000200
+Xee, XaCar - WFS000200
+MAake, CasiaWE - WFS000228
+SiWgh, MarAWpreeM - WFS000246
+De Xa Cerda, IgWaciE - WFS000318
+REdrigAez, PedrE - WFS000336
+MraW, WiXXiaC Ha - WFS000345
+MraW, WiXXiaC Ha - WFS000345
+PayaW, DaWieX - WFS000368
+ErMiz, AGigaiX - WFS000372
+ErEpeza, JEvaW - WFS000382
+REdrigAez, XAis - WFS000412
+SiWgh, JaspreeM - WFS000424
+SiWgXeMEW, REger - WFS000426
+CercadE, SaAX - WFS000446
+CEreira Jr, JEse - WFS000456
+CEreira Jr, JEse - WFS000456
+ZaCEra, Edward - WFS000477
+ArevaXE, JEse - WFS000491
+CcRAWWeX, REWaXd Xee - WFS000501
+CEMMa, Jessica - WFS000503
+CEMMa, Jessica - WFS000503
+CEMMa, Jessica - WFS000503
+CEMMa, Jessica - WFS000503
+CEMMa, Jessica - WFS000503
+WiXXiaCs, MyrreXX - WFS000511
+CaraGiXXa, AWMhEWy - WFS000514
+XEpez WAWez, XAis - WFS000522
+DeXgadiXXE REdarMe, ChrisMiaW S - WFS000523
+HaCiXMEW, DeaWMe DevEW - WFS000536
+HAWMer, ViWceWM De PaAX - WFS000538
+CesiWa CEreWE, KeviW FaGiaW - WFS000548
+REdrigAez, GraWdEW AWgeX - WFS000550
+CharXes, EGadiah SEraccE Jr - WFS000566
+SaWchez, ArWAXfE - WFS000577
+HerWaWdez SaWchez, AWdrew AWMhEWy - WFS000581
+ViXXa, AXfredE AieXXE - WFS000583
+
+Employees who have worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S - WFS000523
